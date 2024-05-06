@@ -100,6 +100,11 @@ x-word {
 	display: none;
 }
 
+h1 {
+	font-weight: 500;
+	font-size: 32px;
+}
+
 h2 {
 	font-weight: 400;
 	opacity: 0.4;
